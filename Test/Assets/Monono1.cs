@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections.Generic;
 
 
-public class CirclePlacer : MonoBehaviour
+public class Monono : MonoBehaviour
 {
     [SerializeField] private GameObject prefab;
     [SerializeField] private int sumCubes = 8;
